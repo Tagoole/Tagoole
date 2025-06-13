@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Tagoole David**!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+%7C+Dart+%7C+C+%7C+JavaScript;Django+%7C+DRF+%7C+Flutter+%7C+React;Backend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%9F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+%7C+Dart+%7C+C+%7C+TypeScript;Django+%7C+DRF+%7C+Flutter+%7C+Angular;Backend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%9F)
 
 Welcome to my GitHub profile! 🚀  
 Here you'll find a collection of projects, experiments, and open-source contributions.
@@ -22,8 +22,8 @@ I'm a software developer who enjoys building meaningful solutions, learning emer
 
 | Category       | Tools & Languages |
 |----------------|------------------|
-| **Languages**  | Python, Dart, C, JavaScript |
-| **Frameworks** | Django, Django REST Framework, Flutter, TypeScript, Angular |
+| **Languages**  | Python, Dart, C, TypeScript |
+| **Frameworks** | Django, Django REST Framework, Flutter, Angular |
 | **Databases**  | MySQL, PostgreSQL |
 | **Tools**      | Git, Docker, VS Code, Firebase |
 | **Platforms**  | Linux, macOS, Heroku |
@@ -33,7 +33,7 @@ I'm a software developer who enjoys building meaningful solutions, learning emer
 ## 🚀 Featured Projects
 
 - 🔗 [**School Management System**](https://github.com/Tagoole/project-name)  
-  _A full-stack app connecting students, teachers, parents, and guards using Django + React_
+  _A full-stack app connecting students, teachers, parents, and guards using Django + Angular_
 
 - 🔗 [**Flutter Mobile App**](https://github.com/Tagoole/another-project)  
   _A sleek and responsive cross-platform app for real-time student tracking_
