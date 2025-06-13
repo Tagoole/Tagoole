@@ -23,7 +23,7 @@ I'm a software developer who enjoys building meaningful solutions, learning emer
 | Category       | Tools & Languages |
 |----------------|------------------|
 | **Languages**  | Python, Dart, C, JavaScript |
-| **Frameworks** | Django, Django REST Framework, Flutter, React |
+| **Frameworks** | Django, Django REST Framework, Flutter, TypeScript, Angular |
 | **Databases**  | MySQL, PostgreSQL |
 | **Tools**      | Git, Docker, VS Code, Firebase |
 | **Platforms**  | Linux, macOS, Heroku |
