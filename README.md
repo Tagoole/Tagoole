@@ -11,10 +11,10 @@ Here you'll find a collection of projects, experiments, and open-source contribu
 
 I'm a software developer who enjoys building meaningful solutions, learning emerging technologies, and collaborating on exciting projects.
 
-- 🔭 Currently working on: `Building school management systems and mobile apps`
-- 🌱 Learning: `Embedded C`, `Machine Learning`, `Advanced SQL`
+- 🔭 Currently working on: `Building Intelligent Systems and mobile apps`
+- 🌱 Learning: `Cyber Security`, `Machine Learning`, `Artificial Intelligence`
 - 💬 Ask me about: `Django`, `Flutter`, `REST APIs`, `Database Design`
-- 🤝 Open to collaboration on: `Backend projects`, `Mobile apps`, `Open source`
+- 🤝 Open to collaboration on: `Backend projects`, `Mobile apps`, `Open source` , `Cyber Security projects`
 
 ---
 
@@ -22,8 +22,8 @@ I'm a software developer who enjoys building meaningful solutions, learning emer
 
 | Category       | Tools & Languages |
 |----------------|------------------|
-| **Languages**  | Python, Dart, C, TypeScript |
-| **Frameworks** | Django, Django REST Framework, Flutter, Angular |
+| **Languages**  | Python, Dart |
+| **Frameworks** | Django, Django REST Framework, Flutter |
 | **Databases**  | MySQL, PostgreSQL |
 | **Tools**      | Git, Docker, VS Code, Firebase |
 | **Platforms**  | Linux, macOS, Heroku |
