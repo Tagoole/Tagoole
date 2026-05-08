@@ -98,18 +98,16 @@ I'm a software developer and researcher at Makerere University building intellig
 
 ---
 
-## 🏆 Skill Levels
+## 📊 Skill Levels
 
-<div align="center">
-
-![Backend](https://img.shields.io/badge/Backend_Development-90%25-1D9E75?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/Mobile_%28Flutter%29-80%25-378ADD?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI_%2F_ML-70%25-7F77DD?style=for-the-badge)
-![Databases](https://img.shields.io/badge/Databases-75%25-D85A30?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-65%25-0F6E56?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-45%25-888780?style=for-the-badge)
-
-</div>
+| Skill | Level | |
+|---|---|---|
+| 🟢 Backend Development | `█████████░` 90% | ![](https://img.shields.io/badge/90%25-Expert-1D9E75?style=flat-square) |
+| 🔵 Mobile (Flutter) | `████████░░` 80% | ![](https://img.shields.io/badge/80%25-Advanced-378ADD?style=flat-square) |
+| 🟣 Databases | `███████░░░` 75% | ![](https://img.shields.io/badge/75%25-Advanced-7F77DD?style=flat-square) |
+| 🟠 AI / ML | `███████░░░` 70% | ![](https://img.shields.io/badge/70%25-Intermediate-D85A30?style=flat-square) |
+| 🟤 DevOps | `██████░░░░` 65% | ![](https://img.shields.io/badge/65%25-Intermediate-0F6E56?style=flat-square) |
+| ⚪ Security | `████░░░░░░` 45% | ![](https://img.shields.io/badge/45%25-Learning-888780?style=flat-square) |
 
 ---
 
